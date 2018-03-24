@@ -1,4 +1,0 @@
-1. Import the "Protected TS IND.ELD" file in tradewstation.
-2. Go to C:\Program Files (x86)\TradeStation 9.5\MyWork
-drag and drop the .tsw file in there then open the workspace
-assumes you imported the indicators first before opening chart
